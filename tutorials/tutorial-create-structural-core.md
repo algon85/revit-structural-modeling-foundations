@@ -61,8 +61,8 @@ The core walls require a structural foundation to distribute the load.
 
 ## Result
 You have successfully modeled a structural core that is constrained to both the project levels and the grid system. 
-
+Create an Independent Structural Slab (Driveway)
 ### Next Steps
-* **How-To:** [How to Modify Structural Foundations](../how-to/how-to-modify-structural-foundations.md)
+* **How-To:** [How to Create an Independent Structural Slab (Driveway)](../how-to/how-to-model-independent-slabs.md)
 * **Explanation:** [Understanding Structural vs. Architectural Walls](../explanations/explanation-structural-vs-architectural-elements.md)
 * **Reference:** [Structural Element Type Properties](../reference/reference-structural-element-types.md)   
