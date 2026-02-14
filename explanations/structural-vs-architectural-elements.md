@@ -38,3 +38,8 @@ This is the most distinct difference in Revit.
 
 ### Analytical Integrity
 If you model a bearing wall as an "Architectural" wall, a structural engineer cannot export your model into analysis software (like Robot or ETABS) to check for building failure. The wall essentially "doesn't exist" to the math engine.
+
+### Hidden Lines and Graphics
+Structural views utilize a specific "Hidden Line" logic. For example, a beam passing *under* a slab will show as a dashed line automatically—but only if both elements are marked as **Structural**.
+
+
