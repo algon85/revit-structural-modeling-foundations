@@ -22,3 +22,8 @@ Most elements (Walls, Floors, Columns) have a instance parameter toggle labeled 
 | **Room Bounding** | Usually enabled. | Usually enabled. |
 | **Analytical** | None. | Generates an analytical surface. |
 | **Join Behavior** | Joins with ceilings/finishes. | Prioritizes joins with slabs and beams. |
+
+### 2. Columns
+This is the most distinct difference in Revit.
+* **Architectural Columns:** Used for "furring out" or aesthetic cladding around a structural member. They take on the material of whatever wall they touch.
+* **Structural Columns:** These are the actual load-bearing members (W-Shapes, Concrete Rectangles). They are placed from "Level Down" by default (representing the way they are built) whereas Architectural columns are "Level Up."
