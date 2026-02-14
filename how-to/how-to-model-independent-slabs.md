@@ -21,3 +21,9 @@ Instead of using the "Pick Walls" tool, use the geometric draw tools to define a
 2. Sketch the perimeter of your driveway. 
 3. **Tip:** Use the **Fillet Arc** tool if you need to create curved "flares" where the driveway meets the street.
 4. Ensure the sketch forms a **closed loop** with no overlapping lines.
+
+### 3. Set Offsets and Slope
+Driveways often sit slightly below the finished floor level of a garage or house to prevent water ingress.
+1. In the **Properties Palette**, locate **Height Offset from Level**.
+2. Set this to a negative value (e.g., `-0' 2"`) to account for a threshold.
+3. **Optional (Drainage):** Select the **Slope Arrow** tool and draw it from the garage toward the street. In the Properties Palette, define the "Slope" percentage (e.g., 2%) to ensure water runoff.
