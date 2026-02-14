@@ -63,7 +63,7 @@ revit-structural-modeling-foundations/
 │ └── explanation-material-association-and-behavior.md
 │
 ├── reference/
-│ ├── reference-structural-element-types.md
+│ ├── structural-element-types.md
 │ └── reference-selection-sets-and-model-groups.md
 │
 └── assets/
