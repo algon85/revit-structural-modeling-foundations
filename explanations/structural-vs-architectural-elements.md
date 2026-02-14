@@ -35,3 +35,6 @@ This is the most distinct difference in Revit.
 ---
 
 ## Why the Distinction Matters
+
+### Analytical Integrity
+If you model a bearing wall as an "Architectural" wall, a structural engineer cannot export your model into analysis software (like Robot or ETABS) to check for building failure. The wall essentially "doesn't exist" to the math engine.
