@@ -64,5 +64,5 @@ You have successfully modeled a structural core that is constrained to both the 
 Create an Independent Structural Slab (Driveway)
 ### Next Steps
 * **How-To:** [How to Create an Independent Structural Slab (Driveway)](../how-to/how-to-model-independent-slabs.md)
-* **Explanation:** [Understanding Structural vs. Architectural Walls](../explanations/explanation-structural-vs-architectural-elements.md)
+* **Explanation:** [Understanding Structural vs. Architectural Walls](../explanations/structural-vs-architectural-elements.md)
 * **Reference:** [Structural Element Type Properties](../reference/reference-structural-element-types.md)   
