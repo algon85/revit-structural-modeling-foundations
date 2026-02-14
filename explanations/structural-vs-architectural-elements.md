@@ -27,3 +27,11 @@ Most elements (Walls, Floors, Columns) have a instance parameter toggle labeled 
 This is the most distinct difference in Revit.
 * **Architectural Columns:** Used for "furring out" or aesthetic cladding around a structural member. They take on the material of whatever wall they touch.
 * **Structural Columns:** These are the actual load-bearing members (W-Shapes, Concrete Rectangles). They are placed from "Level Down" by default (representing the way they are built) whereas Architectural columns are "Level Up."
+
+### 3. Floors/Slabs
+* **Architectural Floors:** Used for floor finishes (tile, carpet, hardwood). They do not contribute to the building's stiffness.
+* **Structural Floors:** Includes a "Structural Deck" parameter. These can be analyzed for spans and directions.
+
+---
+
+## Why the Distinction Matters
