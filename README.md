@@ -55,7 +55,7 @@ revit-structural-modeling-foundations/
 │ └── tutorial-model-simple-structural-bay.md
 │
 ├── how-to/
-│ ├── how-to-modify-structural-foundations.md
+│ ├── how-to-model-independent-slabs.md
 │ └── how-to-assign-and-edit-materials.md
 │
 ├── explanations/
