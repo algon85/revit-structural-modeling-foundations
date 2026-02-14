@@ -1,3 +1,8 @@
+![Revit Version](https://img.shields.io/badge/Revit-2024%2B-blue?logo=autodesk-revit&logoColor=white)
+![Framework](https://img.shields.io/badge/Documentation-Diátaxis-orange)
+![Status](https://img.shields.io/badge/Status-In--Progress-yellow)
+![Category](https://img.shields.io/badge/Sector-Structural--Engineering-green)
+
 # Revit Structural Modeling – Foundations
 
 ## Overview
@@ -6,7 +11,7 @@ This repository documents my structured study of **Section 1: Modeling and Mater
 
 Instead of passively consuming course material, this repo operationalizes the learning process through structured documentation aligned with the **Diátaxis framework**:
 
-- **Tutorials** – Guided learning by doing  
+- **Tutorials** – Start-to-finish, guided learning by doing  
 - **How-To Guides** – Task-oriented instructions  
 - **Explanations** – Conceptual understanding  
 - **Reference** – Neutral, lookup-style documentation  
