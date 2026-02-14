@@ -27,3 +27,16 @@ Revit categorizes foundations by how they "attach" to the rest of the building.
 | **Slab** | Self-Hosted (Sketch) | Driveways, Patios, Mat foundations. |
 
 ---
+
+## Essential Keyboard Shortcuts (Structure)
+Speed is key in professional modeling. Use these to skip the Ribbon menu:
+
+* **WA:** Wall (Note: Defaults to Architectural; use Structure tab for Structural Walls)
+* **CL:** Structural Column
+* **BM:** Structural Beam
+* **FT:** Structural Foundation: Isolated
+* **TR:** Trim/Extend to Corner (Critical for cleaning up wall junctions)
+* **AL:** Align (Essential for locking slabs to walls)
+* **more to be added**
+
+---
