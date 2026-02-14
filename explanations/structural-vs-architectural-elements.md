@@ -48,3 +48,12 @@ When generating a Bill of Quantities (BOQ), we need to separate "Concrete for St
 ---
 
 ## Visibility and View Discipline
+The distinction between these elements is most visible when adjusting the **View Discipline** in the Properties Palette.
+
+* **Structural Discipline:** When a view is set to "Structural," Revit prioritizes structural elements. Architectural walls (like interior drywall partitions) often become transparent or halftone. This allows the structural engineer to see "through" the architecture to focus on the load-bearing bones of the building.
+* **Coordination Discipline:** This view setting shows both Architectural and Structural elements with equal weight, which is essential for "Clash Detection" (ensuring a pipe doesn't run through a steel beam).
+
+
+
+> **Portfolio Note:** Understanding View Disciplines is a key marker of BIM maturity. It shows that you aren't just modeling in a vacuum, but are aware of how different project stakeholders (Architects vs. Engineers) consume the model data.
+
