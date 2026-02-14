@@ -5,3 +5,4 @@ A quick-lookup guide for the placement logic and parametric behaviors of Revit s
 ---
 
 ## Placement Logic: Height vs. Depth
+When placing vertical elements (Columns), the **Options Bar** determines the vertical direction.
