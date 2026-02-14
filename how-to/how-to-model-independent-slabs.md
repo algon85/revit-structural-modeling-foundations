@@ -27,3 +27,18 @@ Driveways often sit slightly below the finished floor level of a garage or house
 1. In the **Properties Palette**, locate **Height Offset from Level**.
 2. Set this to a negative value (e.g., `-0' 2"`) to account for a threshold.
 3. **Optional (Drainage):** Select the **Slope Arrow** tool and draw it from the garage toward the street. In the Properties Palette, define the "Slope" percentage (e.g., 2%) to ensure water runoff.
+
+### 4. Finish the Element
+1. Click the **Green Checkmark** to finish the sketch.
+
+---
+
+## Key Differences from Hosted Slabs
+* **Manual Control:** If the building moves, the driveway will stay in its original coordinates unless you manually move it or use the **Align (AL)** tool to lock the sketch lines to the building's footprint.
+* **Hosting:** This slab is hosted by the **Level**, meaning it responds to changes in the project's vertical datum (the height of the level) rather than the movement of walls.
+
+---
+
+## Related Documentation
+* **Tutorial:** [Creating a Structural Core](../tutorials/tutorial-create-structural-core.md)
+* **Explanation:** [Hosted vs. Self-Hosted Elements](../explanations/explanation-material-association-and-behavior.md)
