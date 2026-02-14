@@ -19,3 +19,11 @@ When placing vertical elements (Columns), the **Options Bar** determines the ver
 
 ## Foundation Types
 Revit categorizes foundations by how they "attach" to the rest of the building.
+
+| Foundation Tool | Hosting Behavior | Typical Use Case |
+| :--- | :--- | :--- |
+| **Isolated** | Hosted by Columns | Spread footings, pier pads. |
+| **Wall** | Hosted by Walls | Continuous strip footings. |
+| **Slab** | Self-Hosted (Sketch) | Driveways, Patios, Mat foundations. |
+
+---
