@@ -42,4 +42,9 @@ If you model a bearing wall as an "Architectural" wall, a structural engineer ca
 ### Hidden Lines and Graphics
 Structural views utilize a specific "Hidden Line" logic. For example, a beam passing *under* a slab will show as a dashed line automatically—but only if both elements are marked as **Structural**.
 
+### Data Management (COBie & Schedules)
+When generating a Bill of Quantities (BOQ), we need to separate "Concrete for Structure" from "Finishes for Architecture." The Structural parameter allows for clean, automated scheduling.
 
+---
+
+## Visibility and View Discipline
