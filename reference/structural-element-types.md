@@ -40,3 +40,10 @@ Speed is key in professional modeling. Use these to skip the Ribbon menu:
 * **more to be added**
 
 ---
+
+## Discipline Visibility States
+How the **View Discipline** property affects what you see:
+
+* **Structural:** Prioritizes bearing elements. Non-structural walls appear transparent/halftone.
+* **Architectural:** Shows finishes, furniture, and partitions. Structural Analytical lines are hidden.
+* **Coordination:** Shows everything. Used for checking if pipes hit beams or if columns block doors.
