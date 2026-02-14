@@ -57,3 +57,8 @@ The distinction between these elements is most visible when adjusting the **View
 
 > **Portfolio Note:** Understanding View Disciplines is a key marker of BIM maturity. It shows that you aren't just modeling in a vacuum, but are aware of how different project stakeholders (Architects vs. Engineers) consume the model data.
 
+## Summary
+* **Architectural elements** define the *space* and *aesthetics*.
+* **Structural elements** define the *support* and *safety*.
+
+In this repository, we prioritize the **Structural** toggle to ensure our foundations and framing are ready for engineering workflows.
