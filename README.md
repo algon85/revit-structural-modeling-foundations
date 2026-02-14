@@ -51,7 +51,7 @@ revit-structural-modeling-foundations/
 ├── README.md
 │
 ├── tutorials/
-│ ├── tutorial-create-structural-core.md
+│ ├── create-structural-core.md
 │ └── tutorial-model-simple-structural-bay.md
 │
 ├── how-to/
