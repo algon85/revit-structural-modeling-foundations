@@ -59,7 +59,7 @@ revit-structural-modeling-foundations/
 │ └── how-to-assign-and-edit-materials.md
 │
 ├── explanations/
-│ ├── explanation-structural-vs-architectural-elements.md
+│ ├── structural-vs-architectural-elements.md
 │ └── explanation-material-association-and-behavior.md
 │
 ├── reference/
