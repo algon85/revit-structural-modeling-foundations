@@ -16,6 +16,10 @@ Every Revit material is composed of different "Assets." Understanding the separa
 ---
 
 ## 2. Material-Driven Join Behavior
+One of the most powerful "behaviors" in Revit is the automatic joining of structural geometry.
+
+* **Monolithic Joins:** If two structural concrete elements (e.g., a beam and a slab) are assigned the **exact same material**, Revit will "merge" them in section views, removing the line between them to represent a single concrete pour.
+* **Material Priority:** If a concrete beam (Strength A) hits a concrete wall (Strength B), Revit will keep the line between them because the materials are different. 
 
 [(To be added)Image: Comparison of joined vs. unjoined concrete elements based on material assignment]
 
