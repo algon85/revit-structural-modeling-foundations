@@ -26,6 +26,12 @@ One of the most powerful "behaviors" in Revit is the automatic joining of struct
 ---
 
 ## 3. How Materials "Associate" with Elements
+There is a hierarchy to how materials are assigned. Understanding this prevents "ghost" materials from appearing in your schedules:
+
+1.  **By Category (Object Styles):** The "fallback" material. If you don't assign a material to a beam, Revit looks here.
+2.  **By Type (Most Common):** Assigned within the **Type Properties**. Every instance of that beam type will share this material. This is the standard for structural framing.
+3.  **By Instance:** Some families allow material assignment on an individual basis. Use this sparingly as it makes scheduling difficult.
+4.  **By Paint Tool:** A "surface-only" override. **Avoid this in structural modeling** as it does not change the physical properties of the element and will not be reflected in structural analysis.
 
 ---
 
