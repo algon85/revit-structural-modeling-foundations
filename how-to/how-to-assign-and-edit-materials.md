@@ -28,6 +28,10 @@ This determines how the material looks in your documentation.
 3. **Color:** Change the shading color for "Shaded" or "Consistent Colors" visual styles.
 
 ### 4. Reviewing Physical Assets
+For structural modeling, the **Physical** tab is the most critical.
+1. Click the **Physical** tab in the Material Browser.
+2. Ensure the **Mechanical** properties (Young's Modulus, Poisson's Ratio) match your project's engineering specifications.
+3. These values are what Revit exports to structural analysis software.
 
 ---
 
