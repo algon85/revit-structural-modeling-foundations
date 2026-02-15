@@ -10,7 +10,7 @@ In Revit, a material is not just a "paint" applied to a surface. It is a contain
 
 ## 2. Material-Driven Join Behavior
 
-[Image: Comparison of joined vs. unjoined concrete elements based on material assignment]
+[(To be added)Image: Comparison of joined vs. unjoined concrete elements based on material assignment]
 
 ---
 
@@ -25,4 +25,4 @@ In Revit, a material is not just a "paint" applied to a surface. It is a contain
 ## Summary
 
 
-[Image: The Material Browser showing the link between Identity, Graphics, and Physical tabs]
+[(To be added)Image: The Material Browser showing the link between Identity, Graphics, and Physical tabs]
