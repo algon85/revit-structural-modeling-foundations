@@ -57,6 +57,13 @@ The distinction between these elements is most visible when adjusting the **View
 
 > **Portfolio Note:** Understanding View Disciplines is a key marker of BIM maturity. It shows that you aren't just modeling in a vacuum, but are aware of how different project stakeholders (Architects vs. Engineers) consume the model data.
 
+## Structural Join Behavior
+A key "Structural" behavior is how elements clean up at intersections.
+
+* **Steel Joins:** Revit uses "Calculated Joins" for steel. When a beam hits a column, it doesn't physically overlap; it stops at the "bounding box" of the column to allow for connection detailing.
+* **Concrete Joins:** Structural concrete elements are designed to "merge." If a concrete beam and column are the same material, Revit will automatically join the geometry to create a monolithic pour representation.
+* **Architectural Exception:** Architectural columns do not have "Join Geometry" priority over structural framing, which can lead to graphical overlaps if the "Structural" toggle isn't managed correctly.
+
 ## Summary
 * **Architectural elements** define the *space* and *aesthetics*.
 * **Structural elements** define the *support* and *safety*.
