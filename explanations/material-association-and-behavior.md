@@ -46,6 +46,9 @@ If an element is marked as "Structural" but has a material with no Physical Asse
 ---
 
 ## Summary
+In this repository, materials are treated as **data containers**, such that:
+1.  Names are consistent (e.g., `ST-Concrete-4000`).
+2.  Physical assets are correctly mapped for engineering integrity.
+3.  Graphic patterns are standardized for clean documentation.
 
-
-[(To be added)Image: The Material Browser showing the link between Identity, Graphics, and Physical tabs]
+> [(To be added)Image: The Material Browser showing the link between Identity, Graphics, and Physical tabs]
