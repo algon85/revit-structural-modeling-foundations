@@ -25,8 +25,6 @@ Instead of placing columns one by one, we will use Revit's automation to snap th
 5. Drag a selection box over all four grid intersections (A1, A2, B1, B2).
 6. Click the **Finish (Green Checkmark)** on the ribbon.
 
-
-
 > **Note:** Check your 3D view. If the columns are "under" Level 1, ensure your placement mode was set to **Height** up to Level 2.
 
 ---
@@ -40,6 +38,16 @@ Beams are "Level-hosted," meaning they will be placed on the level you are curre
 4. Select all four grids. Revit will automatically place beams between the columns.
 5. Click the **Finish** button.
 
+---
 
+## Step 3: Create the Structural Floor
+Now we will "skin" the bay with a structural slab.
+
+1. Remaining in the **Level 2** Floor Plan, go to **Structure** tab > **Floor**.
+2. Select the **Pick Supports** tool (this is better than 'Pick Lines' for framing).
+3. Click the four beams you just created. Revit will lock the floor edge to the beam centerline.
+4. **Span Direction:** Notice the icon with two parallel lines on one edge of your sketch. This indicates which way the structural deck "spans." If you need to change it, click **Span Direction** and select a different edge.
+5. Click the **Green Checkmark**.
 
 ---
+
