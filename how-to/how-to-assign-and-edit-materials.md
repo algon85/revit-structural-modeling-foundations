@@ -22,7 +22,10 @@ Instead of overwriting default materials, it is best practice to create a duplic
 3. Rename it (e.g., "ST-Concrete - 4000 PSI").
 
 ### 3. Editing Material Graphics
-
+This determines how the material looks in your documentation.
+1. **Surface Pattern:** Set the pattern used in 3D or Elevation views (e.g., "Sand" for concrete).
+2. **Cut Pattern:** Set the pattern used in Section or Floor Plan views (e.g., "Concrete" hatch). 
+3. **Color:** Change the shading color for "Shaded" or "Consistent Colors" visual styles.
 
 ### 4. Reviewing Physical Assets
 
