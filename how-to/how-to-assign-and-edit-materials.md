@@ -10,11 +10,10 @@ In Revit, materials are assigned either by **Category**, by **Element Type**, or
 ## Instructions
 
 ### 1. Accessing Material Properties
-Instead of overwriting default materials, it is best practice to create a duplicate.
-1. In the Material Browser, right-click an existing material (e.g., "Concrete, Cast-in-Place").
-2. Select **Duplicate with Assets**.
-3. Rename it (e.g., "ST-Concrete - 4000 PSI").
-4. **Important:** Click the **Appearance** tab and click the "Duplicate this asset" icon (the number 2 icon) to ensure changes don't affect the original material.
+1. Select a structural element in your model (e.g., a Concrete Column or Steel Beam).
+2. In the **Properties Palette**, click **Edit Type**.
+3. Locate the **Materials and Finishes** section.
+4. Click the small **[...] button** in the value field for "Structural Material." This opens the **Material Browser**.
 
 ### 2. Creating a New Material
 Instead of overwriting default materials, it is best practice to create a duplicate.
