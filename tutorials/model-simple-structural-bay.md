@@ -51,3 +51,9 @@ Now we will "skin" the bay with a structural slab.
 
 ---
 
+## Result
+You now have a fully constrained 3D structural bay. Because you used **At Grids** and **Pick Supports**, if you move Grid line "B" by 5 feet, the columns, beams, and floor edge will all move together automatically.
+
+### Next Steps
+* **How-To:** [Assigning and Editing Materials](../how-to/how-to-assign-and-edit-materials.md)
+* **Explanation:** [Beam-to-Column Join Behavior](../explanations/structural-vs-architectural-elements.md)
