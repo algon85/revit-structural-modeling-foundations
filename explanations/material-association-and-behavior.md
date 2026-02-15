@@ -36,6 +36,12 @@ There is a hierarchy to how materials are assigned. Understanding this prevents 
 ---
 
 ## 4. Analytical Behavior
+The **Physical Asset** assigned to a material is what powers Revit’s analytical engine. When a material is tagged as "Concrete" or "Steel" in the Identity tab, it unlocks specific parameters:
+
+* **Steel:** Yield Strength and Tensile Strength.
+* **Concrete:** Compression Strength and Shear Adjustment factors.
+
+If an element is marked as "Structural" but has a material with no Physical Asset, the structural analysis will fail or return "Zero" values.
 
 ---
 
