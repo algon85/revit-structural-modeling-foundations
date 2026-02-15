@@ -32,7 +32,7 @@ Instead of placing columns one by one, we will use Revit's automation to snap th
 ## Step 2: Add Structural Framing (Beams)
 Beams are "Level-hosted," meaning they will be placed on the level you are currently viewing.
 
-1. Open the **Level 2** Floor Plan (we want the beams to support this floor).
+1. Open the **Level 2** Floor Plan (the beams are to support this floor).
 2. Go to **Structure** tab > **Beam**.
 3. Similar to columns, select the **On Grids** tool.
 4. Select all four grids. Revit will automatically place beams between the columns.
@@ -41,7 +41,7 @@ Beams are "Level-hosted," meaning they will be placed on the level you are curre
 ---
 
 ## Step 3: Create the Structural Floor
-Now we will "skin" the bay with a structural slab.
+Next step is to "skin" the bay with a structural slab.
 
 1. Remaining in the **Level 2** Floor Plan, go to **Structure** tab > **Floor**.
 2. Select the **Pick Supports** tool (this is better than 'Pick Lines' for framing).
