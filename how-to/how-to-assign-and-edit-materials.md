@@ -36,9 +36,12 @@ For structural modeling, the **Physical** tab is the most critical.
 ---
 
 ## Best Practices
+* **Naming Conventions:** Use a prefix like `ST-` or `PROJ-` for custom materials so they cluster together in the browser.
+* **Avoid "By Category":** While you can set materials globally via *Object Styles*, assigning them via **Type Properties** provides better control for different strengths of the same material (e.g., 3000 PSI vs 5000 PSI concrete).
+* **Identity Tab:** Use the **Identity** tab to add manufacturer data or "Mark" values for scheduling purposes.
 
 ---
 
 ## Related Documentation
-* **Explanation:** [Material Association and Behavior](../explanations/explanation-material-association-and-behavior.md)
-* **Reference:** [Structural Element Types](../reference/reference-structural-element-types.md)
+* **Explanation:** [Material Association and Behavior](../explanations/material-association-and-behavior.md)
+* **Reference:** [Structural Element Types](../reference/structural-element-types.md)
